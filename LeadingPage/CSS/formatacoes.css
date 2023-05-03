@@ -1,0 +1,13 @@
+:root{
+    --primary-color:#0A1128;
+    --white-color:#FFFF;
+    --gap: 3rem;
+    --cinza-claro-color:#eeee;
+    --cor-secundaria:#B22222;
+    --cinza-escuro:#363636;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
